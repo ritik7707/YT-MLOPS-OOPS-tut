@@ -12,3 +12,8 @@ everything in python is object (data structure, data types etc)
     > debuggind
     > easy to colab
 
+5. End to end Project (chatbook class)
+    > encapsulation
+    > getter and setter
+    > static method
+    
