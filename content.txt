@@ -13,7 +13,18 @@ everything in python is object (data structure, data types etc)
     > easy to colab
 
 5. End to end Project (chatbook class)
+    > function and method
+    > magic methhod or dunder method
+    > self
+    > you can create attribute outside class as well
+
     > encapsulation
     > getter and setter
     > static method
-    
+
+encapsulation is a method to hide the given attribute within the class
+getter is a method to get the hiden attribute 
+setter is a method to set the hiden attribute 
+
+
+static method is also a method that is bound to the class and not the object the class.
