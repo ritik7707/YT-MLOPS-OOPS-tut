@@ -28,3 +28,16 @@ setter is a method to set the hiden attribute
 
 
 static method is also a method that is bound to the class and not the object the class.
+
+6. Inheritance
+  > Inheritance code example
+  > why Inheritance is needed ? (code reuseability, parent has no access to child class)
+  > What get inherited? - Constructor , Non private attributes , Non private methods
+  > Constructor overloading and  method overloading
+  >super keyword (can be used only inside class, can not access variables, used only inside child class)
+
+
+
+
+Constructor overriding happens when a child class defines its own Constructor (__init__) that replaces 
+(overrides) the Constructor of the parent class . it works using Inheritance
