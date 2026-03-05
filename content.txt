@@ -41,3 +41,10 @@ static method is also a method that is bound to the class and not the object the
 
 Constructor overriding happens when a child class defines its own Constructor (__init__) that replaces 
 (overrides) the Constructor of the parent class . it works using Inheritance
+  
+  > Types of inheritance
+    1. Single inheritance
+    2. Multilevel inheritance
+    3. Hierarchical Inheritance
+    4. Multiple Inheritance (Dimond Problem)
+    5. Hybrid Inheritance

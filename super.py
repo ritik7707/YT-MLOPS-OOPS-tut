@@ -28,5 +28,3 @@ dog.speak()
 # Bunny makes a sound
 # Bunny barks . it is a Golden Retriever breed
 
-    
-
